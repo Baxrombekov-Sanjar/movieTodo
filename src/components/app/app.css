@@ -1,0 +1,20 @@
+.app {
+  height: 100vh;
+  color: #000;
+  font-family: monospace;
+}
+
+.content {
+  max-width: 1000px;
+  background-color: #fff;
+  margin: 0 auto;
+  padding: 5rem 0;
+}
+
+.search-panel {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  background-color: whitesmoke;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.15);
+}
